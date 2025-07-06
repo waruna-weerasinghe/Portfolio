@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Code, Database, Globe, Server, Zap, Users } from 'lucide-react';
 
 const About = () => {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const Skills = () => {
   const skillCategories = [
@@ -113,7 +113,7 @@ const Skills = () => {
         </div>
       </div>
 
-      <style jsx>{`
+      <style >{`
         @keyframes skillBar {
           from {
             width: 0%;

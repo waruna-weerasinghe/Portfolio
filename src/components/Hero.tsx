@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ChevronDown, ArrowRight, ArrowUpRight } from 'lucide-react';
 import { Typewriter } from 'react-simple-typewriter';
 
